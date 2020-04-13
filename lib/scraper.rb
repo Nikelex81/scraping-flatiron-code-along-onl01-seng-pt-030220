@@ -28,7 +28,7 @@ class Scraper
   end
 end
 
-Message Nikelson Exantus
+# Message Nikelson Exantus
 
 # require 'nokogiri'
 # require 'open-uri'
